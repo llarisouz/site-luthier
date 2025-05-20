@@ -3,7 +3,7 @@
 Site institucional e portfólio para a oficina de luteria RS Luthier. O projeto apresenta a marca, os serviços oferecidos, o portfólio de instrumentos personalizados e formas de contato com o luthier.
 
 ## 🔗 Acesse o site
-[www.rsluthier.com.br](https://www.rsluthier.com.br) *(substituir com o link real caso exista)*
+[llarisouz.github.io/site-luthier/](https://llarisouz.github.io/site-luthier/)
 
 ---
 
